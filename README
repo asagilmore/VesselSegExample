@@ -1,0 +1,12 @@
+## This repo includes two scans, with the following results:
+IXI138: {AGE: 33, SCANNER: GUYS, DICE: 0.08452790441236978}
+IXI060: {AGE: 30 SCANNER: GUYS, DICE: 0.7589386261261262}
+
+## TO VIEW IN BROWSER
+a recommendation to install Niivue should pop up in the bottom right,
+If it does just click install and your good to go.
+
+If it doesn't pop up:
+- click on the extensions tab
+- type in Niivue and install it
+- click on any "*.nii.gz" and it should load!
